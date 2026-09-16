@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: noble
+Date: Wed, 16 Sep 2026 14:35:25 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 24.04 LTS (Noble Numbat)
+MD5Sum:
+ 8c3163e31eb9c89863cf9f825409b9e9 610 main/binary-amd64/Packages
+ ab5e2923a46306f78348b0a60219276d 423 main/binary-amd64/Packages.gz
+ 137e24347b596ab2d93b52f7ea8e93ba 81 main/binary-amd64/Release
+SHA1:
+ 9bcfa829d48337b218197d403157bfb1b043e586 610 main/binary-amd64/Packages
+ bb1a71c53187dd850a362d395dda821f4aa1feb5 423 main/binary-amd64/Packages.gz
+ 3d469138504e7813c2ec9e9750d1913e61335d56 81 main/binary-amd64/Release
+SHA256:
+ fa6f592a38a27315f4cd04503e3f2ebf5b80e559fbf2af0c43350b8435c40f70 610 main/binary-amd64/Packages
+ be99ac6b58aac313edcc429e7d600b2fe1f94295ef3aa77c2c9333fe210e45e9 423 main/binary-amd64/Packages.gz
+ 1173d8a8891da7247200d1c847b48f2c091710465d24c733e1e1201f39504fe0 81 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEo5yNGsNaF25oLFp7TufVAsSADpYFAmqqqS4ACgkQTufVAsSA
+DpbDMQ//efo6CJTmzQblPEk3Igcb4SS/2F+yN6OmgHiZ1X23vhiTcTDH+5ONMy//
+Z1qhNK2bGxS6Km7d71cJf3FleO2q9bjHqqvfRLBtIrJ48WLXmjh8gZ3fAXfuJWCo
+f0GFDniv+2G88EbyFSqA2fTHBbG7XkpQNdVlk+RvV4tk0qixypEZHP2WRN+qoEyV
+ThxPxkvCsJJDkTc2gWmv9LwXfW/VpQ2Mdb3uj+oU+XhkRBUndEs9KMnH6K3uEDSV
+AF0IpuRZ5Hfk876W2oTuVmdYQW/NNRvc/IJVlB+l/5htRyQbPtximKCTu35kHPzu
+TeBsIUH9yE8rNwRPsDsNjfxvxU565OmELiJbTYSCDzRHmmk2Dxe5jsLav7SD7F8g
+KFbYOz/5KrvoVAJWGypppI71+rIaNPPc5o0xoAP5JnI87Y1NWqq37XYB5c83bFRy
+XEJ0jZndcuV4WYi932BMY5CMwsPQB2PlwXNSXEEF284JqwuQDLX41AU+38hSTnsm
+Leu6zHSPX5rmqnOlpSbFnHLGttimoWLTkDnv9g4CWwUg0i75A57pb09b/Ua0rGqy
+NcQhLjXg6r0JN9TB7MMN0GveItKNWAJgeTm+6UjBiISpFawhZB4rfuT7iqY9R1jr
+V1rKDIZVrDO0Y9kP088UDuyDmTAZvgvZ3+bD2Cd0/q8KqkqAwco=
+=wBep
+-----END PGP SIGNATURE-----

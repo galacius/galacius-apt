@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: jammy
+Date: Wed, 16 Sep 2026 14:35:25 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 22.04 LTS (Jammy Jellyfish)
+MD5Sum:
+ 44bd783fa5440f96ee6e7b6beed394fa 611 main/binary-amd64/Packages
+ 8216f154a837a8743a37994166f18b2b 425 main/binary-amd64/Packages.gz
+ 03f3770d0a4767f843cf7b2de48498cd 84 main/binary-amd64/Release
+SHA1:
+ 08053ef55a0543e07890ae49ee3ff4cd4e8fa352 611 main/binary-amd64/Packages
+ a201682e3b28b3c1063ad79699b1ebc4299f09a1 425 main/binary-amd64/Packages.gz
+ 580e1a264648c356e5feb7fb6f9b0e3b6663d624 84 main/binary-amd64/Release
+SHA256:
+ 4b4d10b5d58fcef3d2a78ae93cc8cc7cfcade1162cb7c52a7d4ffa02257d578e 611 main/binary-amd64/Packages
+ 87c7d5d96ce4c74abdee4e9dbcf1f9c31cb2ca7b7dc1896ae5ed1cd4a700ee62 425 main/binary-amd64/Packages.gz
+ 5396cb54ccd29a6bceea476d1e015acea7451d9560abf706a15cd7751d885225 84 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEo5yNGsNaF25oLFp7TufVAsSADpYFAmqqqS0ACgkQTufVAsSA
+DpYPZRAA5FTDJL3L3Gpo1hnUdryM7+XtC3BhyM67SEvEg8Y9Xsb6dUTQ0yXqNxRL
+xVDzV9N4AWbEsCfI7kYLElKyvzDJ2tAFrUyY3X+4Os7qNAz1oo5dyvSn21yGnwIN
+WrHHS4oGWSbirh/PeTtqbBCyj9uPgnH+eSqOULUMV0iMYElxxVUBQd0l8R05qijc
+c4Xu9V1gHvWeMEXj3lzLq3zDEGNTD22OnAGmdmwpg8RtzUlbVfIjGoFbiUViGR5g
+exjrZa3jMVBbHEEm03f3VQcKralM0laNyIWG5onrQCHaSg6di/M2K8ePxXV1B/Fm
+GSUoUAKtFVwZK3GsM6xoHJG4jGOsQgSNZ+1nuWCvyshLhmnAuuDYCvxFLEgnIrN1
+W+ipFh/1LlStoxO2vM8djgXJwoVobYhza25BvFWKjGfYRfuZ/xgiZkH27fnNs8Ap
+L1e+dX/JbgjvAamJWCOJoI0ffE13Nm+s66MoWv5SoOA0+Tywcmv+ltNeOj9BUcR4
+SgjkslYKcaEuyc97oqI5Ix8kfLy8gngbdOSaqZ/WrkHHoawrrDYBfnBKuU1a2Yao
+QDsKBf88Dty7XZfKMOfxCR8hQGjDbKBQlTubHuskxUy3z6DE0bDY0c3FrYq6W0vG
+f6QWn6AiKCy7lDvC4e3a49bgWmGgGNwZhMMCx/Kbz59Fn5pqXyk=
+=VQYd
+-----END PGP SIGNATURE-----

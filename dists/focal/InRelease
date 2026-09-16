@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: focal
+Date: Wed, 16 Sep 2026 14:35:25 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 20.04 LTS (Focal Fossa)
+MD5Sum:
+ e4fd8d01823118f781c1c4c69a64357e 611 main/binary-amd64/Packages
+ 4085e4c8c9a5a4010da04941d1397e6d 427 main/binary-amd64/Packages.gz
+ d6f3e6b81230854a52d4e46099ef5031 80 main/binary-amd64/Release
+SHA1:
+ c2e74a73dc896f599ccce6f5740d02e28c1b1cc3 611 main/binary-amd64/Packages
+ 0f5606016ab1b7d1532e147b6ae391bd1d5b0eca 427 main/binary-amd64/Packages.gz
+ 03c4b882ae1a67ed63b0c6c03ea7a76ddbb13225 80 main/binary-amd64/Release
+SHA256:
+ 96048f5214f3baf5cb0795f25842c3104c7476c3a87fcb8b0f2981981f910ff0 611 main/binary-amd64/Packages
+ 50c3e1b6cb780d127970f209843ecda6d88c4e8ef9c95c7f7f8f802b8a349a97 427 main/binary-amd64/Packages.gz
+ a0f9e45e7c71447843fbef0e71fb32682b7791e4aa49943364b977271ed37003 80 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEo5yNGsNaF25oLFp7TufVAsSADpYFAmqqqS0ACgkQTufVAsSA
+Dpbq7Q//asbZV0S9IlC8AtUzuc/Be+cKQXWIVmqnzsyQv/y25on4AsU8QPhMmMYo
+VDJx15YT1ofV0VurMEP/idPiAAbMK4iFwJKe5SyMt7eFLdYfsn4As6zFx3b88IqF
+oNOfgnIPLvQaLIrih0mKrfWh69uwIharl4FStOnngj5ZdAjiBsnxo3tTTzBg5Wv6
+LB8WwbxWuiPO1M4dngZsNSrDb72WrCHf0bQJBpv8bzzGSIUkes9WOt7Y+DnqNO7B
+izUxazMbZo4kyVA1PzN4ag3NiImh4cHlJVP2jkM2r+F7HnLQfegyQO5h7Qxs3iXy
+zFtG4VEeraLFKKlZt8cxkNvZzNUU8ba0vxT5Jx/V7eKsecpb2+1Ee2aiwDh/FbHf
+261kzDfUDXo4wUNdMBQx3Pmliqvr0TtdK+2C/kCNo1I0IPv8mmQIXA8zWFsbIdLm
+YoIEjxLv9gH80dZ3Nv9PhOkRIDi0An6p96JaqR+GaEKu4C0yXcR360N+cOfpqFCE
+PAyucEUKBk74/+zwjU20x1ilAAn1QsCBXLyCXng3TvYx8f3mfEZrhCL0opRBzvw9
+QyPFdca2yy1wI3mCKKmH855gK1QUOc0OJvgHQBUJjcCCzmNLwlgWWB1A0to2nv8y
+uxXTyTGd0QYn07PKWEsgKafm7cRzRmr+Q5gMgUBewKHV1k8Ol9I=
+=MoCe
+-----END PGP SIGNATURE-----

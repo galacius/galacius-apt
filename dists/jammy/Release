@@ -1,17 +1,17 @@
 Codename: jammy
-Date: Fri, 18 Sep 2026 04:06:55 UTC
+Date: Tue, 22 Sep 2026 08:22:39 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 22.04 LTS (Jammy Jellyfish)
 MD5Sum:
- 89a93d5eaabe2e23330b625e7a99ef93 611 main/binary-amd64/Packages
- d3291162331c2e2585c6a60619b822ed 427 main/binary-amd64/Packages.gz
+ b331ac308970785888302208a7e7eec9 611 main/binary-amd64/Packages
+ e323426a15ebfb320e008958eeae616d 425 main/binary-amd64/Packages.gz
  03f3770d0a4767f843cf7b2de48498cd 84 main/binary-amd64/Release
 SHA1:
- 1cf7ac5d844c1c819130ec8e4c0a468249fd389d 611 main/binary-amd64/Packages
- d0156f3014ed0821ed91ed5f4096f905ce276654 427 main/binary-amd64/Packages.gz
+ def4c3574cb195bbc802699467c0f50df5e18c82 611 main/binary-amd64/Packages
+ 858b1ace1c8f32edc238dcdd63b10fc6f185213f 425 main/binary-amd64/Packages.gz
  580e1a264648c356e5feb7fb6f9b0e3b6663d624 84 main/binary-amd64/Release
 SHA256:
- 6c8e0b2ca2d26a832faea2d064d484d21ac23a0e098fb80c44e042cc5731d9b0 611 main/binary-amd64/Packages
- 8a6ef282cafa3d7bd3ce4ec8a2d6c23c4f6d63d97436ca78f722d3a4ea68e76e 427 main/binary-amd64/Packages.gz
+ de2367348f265ce8f51416d67a65be96d1de34b58f66f2d9308337207a20d98d 611 main/binary-amd64/Packages
+ 1d3ba4aee22f67e8a4f33d4d6dcf3a0cee4f6b4809dde9a55618667c6c6a2371 425 main/binary-amd64/Packages.gz
  5396cb54ccd29a6bceea476d1e015acea7451d9560abf706a15cd7751d885225 84 main/binary-amd64/Release

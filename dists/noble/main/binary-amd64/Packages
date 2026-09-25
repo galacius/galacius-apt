@@ -1,16 +1,16 @@
 Package: galacius
-Version: 1.1.4~noble
+Version: 1.1.5~noble
 Architecture: amd64
 Maintainer: Galacius Team <packages@galacius.io>
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libc6 (>= 2.31)
 Homepage: https://github.com/galacius/galacius
 Priority: optional
 Section: utils
-Filename: pool/main/g/galacius/galacius_1.1.4~noble_amd64.deb
-Size: 13120202
-SHA256: 6d264ac33c24986b81999304bcb996e2defffbadc6940566ee4664cf1a579bec
-SHA1: 8dfa7907de226aa32f12c809615b5e9f1b61f6d7
-MD5sum: de718f334b98b2599cfb0b90f0ef3f68
+Filename: pool/main/g/galacius/galacius_1.1.5~noble_amd64.deb
+Size: 13121756
+SHA256: c2ec11320c9e8f856aefc630fef5b5e3c78e56ba35b954ebab630d65fb04cacf
+SHA1: a738391803ae3f9527abf96e2e3a177e196f440b
+MD5sum: 1c80e857e0a2601d5d5156049cf05035
 Description: Desktop Kubernetes dashboard
  Galacius is a lightweight, native desktop Kubernetes dashboard built with Wails.
 

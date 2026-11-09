@@ -1,17 +1,17 @@
 Codename: focal
-Date: Mon, 09 Nov 2026 15:11:15 UTC
+Date: Mon, 09 Nov 2026 15:25:42 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 20.04 LTS (Focal Fossa)
 MD5Sum:
- ad5476d0661dfcd87a29813ec3e6641e 611 main/binary-amd64/Packages
- cb006138b5548049c15da4ebef5f4f2d 424 main/binary-amd64/Packages.gz
+ f78ba5d4a413d11ca79ca91f6ac0e056 611 main/binary-amd64/Packages
+ 6e67bc0060624d9079bea743738469be 425 main/binary-amd64/Packages.gz
  d6f3e6b81230854a52d4e46099ef5031 80 main/binary-amd64/Release
 SHA1:
- 7e3f55136e9c6458720608b4eba6fe9c786d5966 611 main/binary-amd64/Packages
- e5d1506e19fbd6aa7a7e38c67897b960b77474e6 424 main/binary-amd64/Packages.gz
+ 44f9279c9f5734103f41aea5ddd679cd79164dce 611 main/binary-amd64/Packages
+ 1f555ab6b3fc276237767e1511a2aaa239bbc037 425 main/binary-amd64/Packages.gz
  03c4b882ae1a67ed63b0c6c03ea7a76ddbb13225 80 main/binary-amd64/Release
 SHA256:
- 40c0d0a84349ee84db51b6be56ca2019625e70a258b0baf71f698ac9b58cf365 611 main/binary-amd64/Packages
- 0c5487318950c950074034dd546e52aa9bc173d5964662deba08764842e19ac0 424 main/binary-amd64/Packages.gz
+ 1a17fc78c0f08c7588673cf256245ed831ca0de66dc0f20b412c90e046d5489f 611 main/binary-amd64/Packages
+ 3a39e57c0b051be5992098f040dfab047d2ef277ac79effc786b3e759ee14219 425 main/binary-amd64/Packages.gz
  a0f9e45e7c71447843fbef0e71fb32682b7791e4aa49943364b977271ed37003 80 main/binary-amd64/Release
